@@ -1,0 +1,1 @@
+Use this file as an add-on to the existing css, html and js files already installed on your computer. Please check the key provided if it matches with the given information. If it does not match then generate a new key with the link below.
